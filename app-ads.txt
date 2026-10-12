@@ -1,0 +1,14 @@
+# app-ads.txt for Raven Rise
+#
+# Host this at the ROOT of the developer website you list on your Google Play
+# store listing, so it resolves at:   https://yourdomain.com/app-ads.txt
+#
+# Replace pub-5440412913688043 with your AdMob publisher ID — the digits in
+# your app id before the "~" (AdMob > Settings > Account information).
+# The long hex string is Google's certification authority ID and is the same
+# for everyone; do not change it.
+#
+# Until this file is live and crawled, AdMob restricts demand on your app,
+# which directly reduces what you earn.
+
+google.com, pub-5440412913688043, DIRECT, f08c47fec0942fa0
